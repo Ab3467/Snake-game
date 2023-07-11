@@ -22,7 +22,13 @@
 2: CSS: Styles the game board, snake, and food items, enhancing the visual appeal.<br>
 3: JavaScript: Implements the game logic, including snake movement, collision detection, and score tracking.</p>
 <br>
+source:<br>
+https://www.youtube.com/@KennyYipCoding
 
+# Try Now!
+<p>To play the Snake Game, simply open the index.html file in your web browser. <br>Use the arrow keys to control the snake and try to achieve the highest score possible!
+
+<br>Have fun playing the Snake Game! Contributions and improvements are welcome.</p>
 
 
 
