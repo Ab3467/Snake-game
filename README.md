@@ -12,4 +12,17 @@
 6: The game ends when the snake collides with a wall or itself.
 7: You can restart the game by refreshing the page.</p>
 
+# Features
+<p>1: Responsive and intuitive controls using arrow keys for snake movement.
+2: Random generation of food items on the game board for the snake to eat.
+3: Collision detection to check for collisions with walls and the snake's own body.
+
+# Technologies used and Sources
+<p>1: HTML: Provides the basic structure of the game and elements on the game board.
+2: CSS: Styles the game board, snake, and food items, enhancing the visual appeal.
+3: JavaScript: Implements the game logic, including snake movement, collision detection, and score tracking.</p>
+<br>
+
+
+
 
