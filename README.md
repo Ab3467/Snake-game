@@ -1,2 +1,3 @@
-![Snake - Google Chrome 7_11_2023 3_00_39 PM](https://github.com/Ab3467/Game-3/assets/138695838/7b1ad8b0-d57b-43c8-99ea-090bde6d6156)
+![Screenshot (36)](https://github.com/Ab3467/Game-3/assets/138695838/905c34fc-2412-438a-a1e6-231b92341380)
+
 
