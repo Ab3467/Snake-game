@@ -1,4 +1,5 @@
-![Screenshot (36)](https://github.com/Ab3467/Game-3/assets/138695838/905c34fc-2412-438a-a1e6-231b92341380)
+![Screenshot (36)](https://github.com/Ab3467/Game-3/assets/138695838/905c34fc-2412-438a-a1e6-231b92341380
+
 
 # Introduction
 <p>The Snake Game is a classic arcade game where players control a snake that moves around the game board, eating food items to grow longer. This implementation of the Snake Game is built using HTML, CSS, and JavaScript, providing a fun and interactive gaming experience.</p>
@@ -29,6 +30,10 @@ https://www.youtube.com/@KennyYipCoding
 <p>To play the Snake Game, simply open the index.html file in your web browser. <br>Use the arrow keys to control the snake and try to achieve the highest score possible!
 
 <br>Have fun playing the Snake Game! Contributions and improvements are welcome.</p>
+
+# Credit
+<p>Credits This game is developed by Ahmad Abu Bakr. Feel free to provide any feedback or suggestions for improvement.
+https://github.com/Ab3467</p>
 
 
 
